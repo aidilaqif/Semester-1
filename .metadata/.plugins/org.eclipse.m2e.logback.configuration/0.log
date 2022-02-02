@@ -1,0 +1,5 @@
+2021-10-18 14:19:58,807 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2021-10-20 11:27:37,572 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-20 12:07:26,232 [Worker-35: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\aidilaqif\.git]
+2021-10-20 12:07:35,036 [Worker-41: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\repository\.git]
+2021-10-20 12:17:56,802 [Worker-38: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\repository\.git]
